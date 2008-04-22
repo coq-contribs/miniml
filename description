@@ -7,3 +7,4 @@ Abstract Machine (C.A.M) in natural semantics It also contains the
 definition of the translation from Mini-ML to the CAM and the proof
 that this translation is correct
 Keywords: Mini-ML, Categorical Abstract Machine, compilation
+Category: Computer Science/Semantics and Compilation/Compilation
